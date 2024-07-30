@@ -14,8 +14,11 @@
   <a href="mailto:aresstav04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://www.linkedin.com/in/ares-stavropoulos-324463181/">
+    <img alt="LinkedIn" title "Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
   <a href="https://www.instagram.com/ares2254/">
-    <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
@@ -24,8 +27,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodeejs,linux,github,c,javascript,typescript,npm,express,mysql,java" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,react,golang,mysql,flask,python,css,html,sass,php,laravel,vim,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,linux,git,cpp,c,javascript,typescript,npm,express,mysql,java" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,react,golang,mysql,flask,python,css,html,sass,php,laravel,vim" />
 </div>
 
 <hr/>
@@ -42,5 +45,5 @@
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
 </h3>
