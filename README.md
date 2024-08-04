@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <p>🌱 I’m currently learning <strong>Golang & Wails</strong></p>
+  <p>🌱 I’m currently learning <strong>Golang with Wails and Svelte</strong></p>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,linux,git,cpp,c,javascript,typescript,npm,express,mysql,java" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,react,golang,mysql,flask,python,css,html,sass,php,laravel,vim" />
+  <img src="https://skillicons.dev/icons?i=aws,react,golang,mysql,flask,python,css,html,sass,php,laravel,vim,svelte" />
 </div>
 
 <hr/>
