@@ -7,7 +7,6 @@
 
 <div align="center">
   <p>🌱 I’m currently learning <strong>Golang & Wails</strong></p>
-  <p>💬 Ask me about <strong>Python, AWS, Typesript, PHP... or anything <a href="https://github.com/Ares1605">here</a></strong></p>
 </div>
 
 <div align="center">
