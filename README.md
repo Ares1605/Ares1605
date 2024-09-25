@@ -3,7 +3,7 @@
 </div>
 <div align="left">
   <p>
-   🚀 I am currently a third-year college student majoring in <strong>Computer Science</strong>. My initial impressions to Computer Science was being fascinated by the complexities of software, and how much goes into making a scalable product. Today, I'm trying to learn everything between stage 0 of creating a product to maintaining and upkeeping software.  
+   🚀 I am currently a third-year college student majoring in <strong>Computer Science</strong>. My initial impressions to the field was being fascinated by the complexities of software, and how much goes into making a scalable product. Today, I'm trying to learn everything between stage 0 of creating a product to maintaining and upkeeping software.  
   </p>
 </div>
 
