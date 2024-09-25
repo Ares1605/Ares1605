@@ -2,7 +2,7 @@
     <h2>Ares Stavropoulos</h2>
 </div>
 <div align="center">
-  <p>
+  <p style="text-wrap: balance">
    🚀 I am currently a third-year college student majoring in <strong>Computer Science</strong>. My initial impressions to the field was being fascinated by the complexities of software, and how much goes into making a scalable software. Today, I'm trying to learn everything between stage 0 of creating a product, to maintaining and upkeeping software.  
   </p>
 </div>
