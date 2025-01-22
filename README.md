@@ -11,7 +11,7 @@ most interesting concept I've been learning recently is event-driven architectur
 </div>
 
 <div align="center">
-  <p>🌱 I’m currently learning <strong>Golang with Wails and Svelte</strong></p>
+  <p>🌱 I’m currently learning <strong>Golang with BubbleTea</strong></p>
 </div>
 
 <div align="center">
