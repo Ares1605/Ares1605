@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <p>
-🚀 I am currently a third-year college student majoring in <strong>Computer Science</strong>. My initial impressions to the field<br>
+🚀 I am currently a fourth-year college student majoring in <strong>Computer Science</strong>. My initial impressions to the field<br>
 was being fascinated by the complexities of software, and how much goes into making a scalable software. Today,<br>
 I'm trying to learn everything between stage 0 of creating a product, to maintaining and upkeeping software. The <br>
 most interesting concept I've been learning recently is event-driven architecture.
