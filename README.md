@@ -11,7 +11,7 @@ most interesting concept I've been learning recently is event-driven architectur
 </div>
 
 <div align="center">
-  <p>🌱 I’m currently learning <strong>Golang with BubbleTea</strong></p>
+  <p>🌱 I’m currently learning <strong>Rust</strong> and studying for the <strong>AWS Certified Developer - Associate Certification</strong></p>
 </div>
 
 <div align="center">
